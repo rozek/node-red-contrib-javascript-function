@@ -1,3 +1,3 @@
-# node-red-contrib-javascript-function #
+# node-red-simple-wiki #
 
-a Node-RED node for dynamic JavaScript Functions
+a simple wiki implemented in Node-RED
